@@ -1,12 +1,19 @@
-# React + Vite
+# Wedding Seating Chart App 💍
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Guest seating management system built for a real event, handling dynamic guest data and seating arrangements.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 💡 Live Application
+- Frontend only: https://malalu-seating-chart.netlify.app/
+- Supabase: Backend decommissioned post-event.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+**Languages**: ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Frameworks**: ![React](https://img.shields.io/badge/React-007396?style=flat-square&logo=react&logoColor=#61DAFB)
+
+**Deployment**: ![Supabase](https://img.shields.io/badge/Supabase-0B0D0E?style=flat-square&logo=supabase&logoColor=#3FCF8E) ![Netlify](https://img.shields.io/badge/Netlify-0B0D0E?style=flat-square&logo=netlify&logoColor=#00C7B7)
