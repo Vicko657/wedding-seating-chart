@@ -12,8 +12,6 @@ export default function App() {
           </div>
           <Header />
         </div>
-
-        <div className="right-column d-flex col-lg-6 flex-column vh-100 "></div>
       </div>
     </div>
   );
