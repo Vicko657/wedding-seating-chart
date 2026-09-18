@@ -1,7 +1,7 @@
 import React from "react";
-import "./Header.css";
+import "./Footer.css";
 
-export default function Header() {
+export default function Footer() {
   return (
     <>
       <footer className="d-flex App-header row">
