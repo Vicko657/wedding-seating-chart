@@ -23,12 +23,12 @@ export default function MainBody() {
   }
 
   return (
-    <div className="seating p-lg-2 p-0">
+    <div className="seating col-lg-6 col-10 d-block m-auto ">
       <h1>Find your seat</h1>
       <form
         onSubmit={handleSubmit(onSubmit)}
         noValidate
-        className="search-form d-flex mb-1"
+        className="search-form d-flex mt-3 mb-1"
       >
         <input
           type="text"
