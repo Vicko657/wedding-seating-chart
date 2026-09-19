@@ -1,18 +1,25 @@
 img.logo {
-  display: block;
-  margin: 0 auto;
   width: 56%;
 }
+.signature {
+  font-size: 14px;
+  letter-spacing: 0px;
+  color: #000;
+}
 
-header {
-  padding-top: 50px;
+.signature a {
+  color: #000;
+}
+
+.signature a:hover {
+  color: #959595;
 }
 
 @media (max-width: 525px) {
-  header {
-    padding-bottom: 20px;
-  }
   img.logo {
-    width: 300px !important;
+    width: 60% !important;
+  }
+  .signature {
+    font-size: 12px;
   }
 }
