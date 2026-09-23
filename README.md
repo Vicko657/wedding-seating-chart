@@ -10,7 +10,7 @@ A mobile-first guest seating application built for a private wedding reception, 
 
 ## 🪧 The Problem
 
-The client requested a digital system, that could be used live at the reception to help `over 240+` arriving guests instantly find their assigned tables. Their goal was to reduce confusion at the entrance and the wait time accessing the board.
+The client requested a digital system, that could be used live at the reception to help `over 300+` arriving guests instantly find their assigned tables. Their goal was to reduce confusion at the entrance and the wait time accessing the board.
 
 ## 📱 The Solution
 
