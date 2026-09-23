@@ -40,7 +40,7 @@ The guests scanned a QR code displayed at the venue, viewed the website on their
 
 ## 📋 Features
 
-- **Guest Lookup:** Seating information for 240+ wedding guests was stored and made searchable through the application.
+- **Guest Lookup:** Seating information for 300+ wedding guests was stored and made searchable through the application.
 - **Search Functionality:** Guests could search their full name or first name to find their assigned table.
 - **Responsive Design:** Designed for mobile devices so guests could access the seating chart from their phones at the venue.
 - **Input Validation:** Handled empty searches and unsucessful lookups with clear error messages.
