@@ -54,7 +54,7 @@ ul {
 
 @media (max-width: 525px) {
   h1 {
-    font-size: 48px;
+    font-size: 40px;
     padding-bottom: 2px;
   }
   h2 {
@@ -62,12 +62,12 @@ ul {
     padding: 0px;
   }
   h3 {
-    font-size: 22px;
+    font-size: 18px;
   }
   h4 {
-    font-size: 15px;
+    font-size: 12px;
   }
   p {
-    font-size: 14px;
+    font-size: 12px;
   }
 }
